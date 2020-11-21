@@ -1,4 +1,5 @@
-# secondtest
-This is a second test.
+# Ruby 1° Hello World!
 
-hello, i have added this new line by readme-edit2 branch.
+My 1st Hello World in Ruby.
+
+hello! #i have added this new line by readme-edit2 branch.
